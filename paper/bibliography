@@ -1,0 +1,31 @@
+@article{article,
+author = {Swim, Janet and Mallett, Robyn and Stangor, Charles},
+year = {2004},
+month = {01},
+pages = {117-128},
+title = {Understanding Subtle Sexism: Detection and Use of Sexist Language},
+volume = {51},
+journal = {Sex Roles},
+doi = {10.1023/B:SERS.0000037757.73192.06}
+}
+
+@article{PACIELLO2021106655,
+title = {Online sexist meme and its effects on moral and emotional processes in social media},
+journal = {Computers in Human Behavior},
+volume = {116},
+pages = {106655},
+year = {2021},
+issn = {0747-5632},
+doi = {https://doi.org/10.1016/j.chb.2020.106655},
+url = {https://www.sciencedirect.com/science/article/pii/S0747563220304027},
+author = {Marinella Paciello and Francesca D'Errico and Giorgia Saleri and Ernestina Lamponi},
+keywords = {Sexist meme, Moral disengagement, Prosocial reasoning, Moral emotion, Online aggression},
+abstract = {Online sexist aggression is still overlooked in psychosocial literature. The present study aims to investigate moral cognitive and emotional processes associated with different online stances during a heated online discussion prompted by a sexist meme. To this end, adopting a social cognitive framework, we analyzed Twitter comments in response to the public condemnation of a rude sexist meme made about Carola Rackete, the captain of the Sea-Watch. A total of 1249 comments were codified for moral disengagement mechanisms, prosocial reasoning, and moral emotions. The results show the impact of a sexist meme in terms of cognitive and emotional processes. While moral disengagement mechanisms and other-condemning emotions have characterized aggressive stances, prosocial reasoning and other-suffering emotions have characterized prosocial ones. Intermediate stances also emerged during the online discussion, showing a more complex interplay between cognition and emotional moral processes—beyond the mere polarization of two stances. Indeed, some comments defending women image were characterized in active negative emotions (e.g., anger) and prosocial moral reasoning, whereas others “avoiding” comments were characterized by moral disengagement and ironic expressions. The social and theoretical implications of these results are then discussed.}
+}
+
+@inproceedings{Feagin1986ModernSB,
+  title={Modern Sexism: Blatant, Subtle, and Covert Discrimination},
+  author={Nijole V. Benokraitis Joe R. Feagin},
+  year={1986},
+  url={https://api.semanticscholar.org/CorpusID:146452429}
+}
